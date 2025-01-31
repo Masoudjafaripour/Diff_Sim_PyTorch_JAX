@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-#include <cuda_runtime.h>
+#include <cuda_git runtime.h>
 
 #define g 9.81f  // Gravity (m/s^2)
 #define l 1.0f   // Pendulum length (m)
